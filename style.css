@@ -1,0 +1,39 @@
+/* My style sheet */
+
+* {
+    font-family: "Georgia", serif;
+    color: #f4f0d7;
+    text-align: center;
+}
+
+#content {
+  overflow: auto;
+  height: 100%;
+  margin: 100px;
+}
+
+body {
+    width: 960px;
+    margin: 10px auto;
+    background-color: #39395f;
+}
+
+a {
+    color:aliceblue;
+    margin-right: 15px;
+}
+
+dt {
+    color:rgb(217, 248, 173);
+    font-weight: bold;
+    margin-bottom: 2px;
+}
+
+dd {
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+li {
+    margin-bottom: 10px;
+}
