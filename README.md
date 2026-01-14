@@ -1,3 +1,3 @@
 # sophiaheuss-cmyk.github.io
 This was my first ever website that I made for a class project.
-Use this link to view it: https://sophiaheuss.github.io/sophiaheuss-cmyk.github.io/
+Use this link to view it: https://sophiaheuss.github.io/first-ever-website/
